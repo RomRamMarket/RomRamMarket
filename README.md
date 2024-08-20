@@ -1,11 +1,10 @@
-# Sebastian A. Ramirez Gonzalez
-Test
+# Sebastián A. Ramírez González
+
 # Gabriel O. Romero Torres
 
-Gabriel Romero Torres nació en Bayamón, PR en 2004. A la fecha de agosto 2024 está cursando su tercer año de universidad en el Bachillerato en Ciencias Naturales con concentración en Ciencia de Cómputos. Uno de sus mayores intereses es poder combinar la economía con la programación. Las matemáticas siempre han sido una de sus pasiones. Disfruta mucho compartir en familia y amigos. Últimamente se ha interesado en el área de la educación y no descarta en algún momento ayudar a educar a las futuras generaciones :--).
+Gabriel O. Romero Torres was born in Bayamón, PR in 2004. As of August 2024, he is currently in his junior year (third) of college in the Bachelor of Natural Sciences with a major in Computer Science. One of his greatest interests is being able to combine economics with programming. Mathematics has always been one of his passions. He really enjoys spending time with family and friends. This summer, he has become interested in the field of education and does not rule out the possibility of helping to educate future generations :--).
 
 # Yadiel Mercado Rivera
-Test
 
 <!---
 RomRamMarket/RomRamMarket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
