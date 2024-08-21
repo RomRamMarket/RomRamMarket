@@ -6,7 +6,6 @@
 
 <image
   src="gabriel.png"
-  caption="Foto de Gabriel"
   width = 100px
   height = 125px>
 
