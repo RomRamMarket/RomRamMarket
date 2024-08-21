@@ -17,6 +17,11 @@ Gabriel O. Romero Torres was born in Bayamón, PR in 2004. As of August 2024, he
 
 # Yadiel Mercado Rivera
 
+<image
+  src="yadiel.jpg"
+  width = 100px
+  height = 125px>
+
 Yadiel Mercado Rivera is a 3rd year college student at the University of Puerto Rico - Rio Piedras. Born in Bayamon 2001 and raised in Morovis in the island of Puerto Rico into a caring family of 4, he had the freedom to explore and develop his own hobbies. His main hobby from an early age was video games, since his father used to play on his Sega Dreamcast and Playstation 2. Video games have always been an important part of their life and are a reason as to why he started a computer science degree in his country’s university.
 
 <!---
