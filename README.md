@@ -1,5 +1,10 @@
 # Sebastián A. Ramírez González
 
+<image
+  src="sebastian.jpg"
+  width = 100px
+  height = 125px>
+
 Sebastián Andrés Ramírez González was born in San Juan, Puerto Rico in 2004. As of August 2024, he is currently in his third year pursuing a Bachelor's Degree in Computer Science in the Río Piedras Campus of the University of Puerto Rico. He learned to play the flute in school where he discovered his passion for music that would eventually lead him to join the Symphonic Band in UPRRP. He has also served as a tutor for introductory Computer Science courses and participated in two game jams hosted by the Computer Science Students' Association. His greatest interests are software engineering, video game development and mathematics and computer science education.
 
 # Gabriel O. Romero Torres
